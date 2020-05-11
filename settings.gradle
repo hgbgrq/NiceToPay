@@ -1,0 +1,2 @@
+rootProject.name='NiceToPay'
+include ':app'
